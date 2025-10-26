@@ -31,13 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://github.com/user-attachments/assets/aae508b7-44cd-40af-a850-6286d591ae1e">
-    </a>
-    <a href="https://github.com/user-attachments/assets/aae508b7-44cd-40af-a850-6286d591ae1e">
-      <img style="max-width:300px;" src="https://github.com/user-attachments/assets/aae508b7-44cd-40af-a850-6286d591ae1e">
-    </a>
-  </div>
+![Image](https://github.com/user-attachments/assets/124099d5-b627-400a-9b6e-ea1a4ab1dfac)
 
 ## Notes
 
