@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![Image](https://github.com/user-attachments/assets/e4c0906d-9259-4e32-84cc-df2717828218)
+![Image](https://github.com/user-attachments/assets/b32ad879-65f0-42a0-aa24-1ca0f47b00dd)
 
 ## Notes
 
